@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Threading;
-
+/*
+ Implementing searching algorthms
+ Author: Jason
+ Date: May 9, 2020
+ */
 
 namespace LearningNewLanguages
 {
